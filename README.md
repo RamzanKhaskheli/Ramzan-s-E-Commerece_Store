@@ -1,4 +1,4 @@
-# Anon - An eCommerce Website
+# Ramzan - An eCommerce Website
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/anon-ecommerce-website)
 ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/anon-ecommerce-website?style=social)
@@ -19,9 +19,9 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installing Anon
+## Installing Ramzan store
 
-To install **Anon**, follow these steps:
+To install **Ramzan**, follow these steps:
 
 Linux and macOS:
 
@@ -36,8 +36,7 @@ git clone https://github.com/codewithsadee/anon-ecommerce-website.git
 ```
 
 ## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+mramzankhaskheli@gmail.com
 
 ## License
 
